@@ -1,38 +1,29 @@
 <!-- ═══════════════════ BANNER ═══════════════════ -->
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycnRxbHdqa3V1enF1NGtwNnhvZTlweXJhZ2M1dXp0MTVwcTgyM3BkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CchzkJJ6UrQmQ/giphy.gif" width="100%" alt="banner"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycnRxbHdqa3V1enF1NGtwNnhvZTlweXJhZ2M1dXp0MTVwcTgyM3BkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CchzkJJ6UrQmQ/giphy.gif" width="150%" alt="banner"/>
 </div>
 
 <br/>
-
 <!-- ═══════════════════ ROLES + BADGES ═══════════════════ -->
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=750&height=50&lines=🤖+AI+Bot+Developer;🌐+AI+Web+App+Builder;📱+Telegram+Bot+Creator;🧠+AI+%26+ML+Explorer;⚡+Student+%7C+Self-Taught+Coder" alt="Roles"/>
-
 <br/>
 
 [![Telegram](https://img.shields.io/badge/@vikrantsayz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vikrantsayz)
 [![Instagram](https://img.shields.io/badge/@vikrant.sayz-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vikrant.sayz)
 [![GitHub](https://img.shields.io/badge/vikrantsayz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikrantsayz)
 [![Profile Views](https://komarev.com/ghpvc/?username=vikrantsayz&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/vikrantsayz)
-
 </div>
-
 <br/>
-
 <!-- ═══════════════════ GIF + ABOUT ME ═══════════════════ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <table border="0" width="100%">
 <tr>
-<td width="45%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
   <img src="https://raw.githubusercontent.com/vikrantsayz/vikrantsayz/main/Assets/sasori.gif" width="100%"/>
 </td>
-<td width="55%" valign="middle" align="left">
+<td width="50%" valign="middle" align="left">
 
 ### 👨‍💻 About Me
 
@@ -42,10 +33,8 @@ I'm **𝐕ɪᴋʀᴀɴᴛ** from **Uttar Pradesh** 🇮🇳
 - 🎮 In free time — **Playing Video Games**
 
 <br/>
-
-### 📬 Contact
+📬 Contact
 <a href="mailto:vikrant.sayz@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> vikrant.sayz@gmail.com</a>
-
 </td>
 </tr>
 </table>
@@ -58,7 +47,7 @@ I'm **𝐕ɪᴋʀᴀɴᴛ** from **Uttar Pradesh** 🇮🇳
 
 <div align="center">
 
-## 〔 📊 GitHub Stats 〕
+##   📊 GitHub Stats 
 
 <br/>
 
@@ -93,11 +82,9 @@ I'm **𝐕ɪᴋʀᴀɴᴛ** from **Uttar Pradesh** 🇮🇳
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=⚡+Building+in+the+dark+so+I+can+shine+in+the+light+⚡;🤖+Code+%7C+Learn+%7C+Build+%7C+Repeat+🤖" alt="footer quote"/>
 
 <br/>
 
