@@ -10,18 +10,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=24&duration=3500&pause=1500&color=A855F7&center=true&vCenter=true&width=700&height=65&lines=Hello%2C+Welcome+to+my+Profile+%F0%9F%91%8B%F0%9F%8F%BB;Glad+you+stopped+by+%E2%9C%A8" alt="Welcome"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=700&height=85&lines=%E2%8F%A4%CD%9F%CD%9F%CD%9E%CD%9E%F0%9D%90%95%C9%AA%E1%B4%8B%CA%80%E1%B4%80%C9%B4%E1%B4%9B" alt="Name"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=750&height=50&lines=🤖+AI+Bot+Developer;🌐+AI+Web+App+Builder;📱+Telegram+Bot+Creator;🧠+AI+%26+ML+Explorer;⚡+Student+%7C+Self-Taught+Coder;💻+Always+Building+Something+New" alt="Roles"/>
 
 <br/>
 
 [![Telegram](https://img.shields.io/badge/@vikrantsayz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vikrantsayz)
 [![Instagram](https://img.shields.io/badge/@vikrant.sayz-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vikrant.sayz)
-[![GitHub](https://img.shields.io/badge/vikrantsayz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikrantsayz)
-[![Profile Views](https://komarev.com/ghpvc/?username=vikrantsayz&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/vikrantsayz)
+
 
 </div>
 
@@ -33,19 +27,12 @@
 
 <table border="0" width="100%">
 <tr>
-<td width="40%" align="center" valign="top">
-<br/>
-<img src="https://raw.githubusercontent.com/vikrantsayz/vikrantsayz/main/Assets/sasori.gif" width="260px"/>
-<br/><br/>
+<td width="45%" align="center" valign="middle">
 
-<!-- 3 links under gif -->
-<a href="https://t.me/vikrantsayz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/> @vikrantsayz</a><br/><br/>
-<a href="https://instagram.com/vikrant.sayz"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white"/> @vikrant.sayz</a><br/><br/>
-<a href="mailto:vikrant.sayz@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> vikrant.sayz@gmail.com</a>
+<img src="https://raw.githubusercontent.com/vikrantsayz/vikrantsayz/main/Assets/sasori.gif" width="100%"/>
 
 </td>
-<td width="60%" valign="top" style="padding-left:20px;">
-<br/>
+<td width="55%" valign="middle" align="left">
 
 ### 👨‍💻 About Me
 
@@ -68,6 +55,11 @@ I'm **𝐕ɪᴋʀᴀɴᴛ** from **Uttar Pradesh** 🇮🇳
 🌐  AI Web Apps with real-time API streaming
 🔬  How AI models work under the hood
 ```
+
+<br/>
+<a href="mailto:vikrant.sayz@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> vikrant.sayz@gmail.com</a>
+
+
 
 </td>
 </tr>
@@ -180,3 +172,4 @@ I'm **𝐕ɪᴋʀᴀɴᴛ** from **Uttar Pradesh** 🇮🇳
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
 </div>
+
