@@ -10,12 +10,14 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=750&height=50&lines=🤖+AI+Bot+Developer;🌐+AI+Web+App+Builder;📱+Telegram+Bot+Creator;🧠+AI+%26+ML+Explorer;⚡+Student+%7C+Self-Taught+Coder" alt="Roles"/>
 
 <br/>
 
 [![Telegram](https://img.shields.io/badge/@vikrantsayz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vikrantsayz)
 [![Instagram](https://img.shields.io/badge/@vikrant.sayz-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vikrant.sayz)
 [![GitHub](https://img.shields.io/badge/vikrantsayz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikrantsayz)
+[![Profile Views](https://komarev.com/ghpvc/?username=vikrantsayz&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/vikrantsayz)
 
 </div>
 
@@ -35,16 +37,19 @@
 ### 👨‍💻 About Me
 
 I'm **𝐕ɪᴋʀᴀɴᴛ** from **Uttar Pradesh** 🇮🇳
-
 - 🔭 I'm a student and a gamer
 - ⚡ Learning **AI, LLMs, Python, JavaScript, Web Dev** etc.
 - 🎮 In free time — **Playing Video Games**
+
 <br/>
+
 ### 📬 Contact
 <a href="mailto:vikrant.sayz@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> vikrant.sayz@gmail.com</a>
+
 </td>
 </tr>
 </table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -99,5 +104,3 @@ I'm **𝐕ɪᴋʀᴀɴᴛ** from **Uttar Pradesh** 🇮🇳
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
 </div>
-
-
