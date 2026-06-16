@@ -7,7 +7,7 @@
 <br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vikrantsayz)
-[![Instagram](https://img.shields.io/badge/@Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vikrant.sayz)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vikrant.sayz)
 [![Profile Views](https://komarev.com/ghpvc/?username=vikrantsayz&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/vikrantsayz)
 <div align="center">
 <br/>
