@@ -21,9 +21,9 @@
 <table border="0" width="100%">
 <tr>
 <td width="50%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/vikrantsayz/vikrantsayz/main/Assets/sasori.gif" width="150%"/>
+  <img src="https://raw.githubusercontent.com/vikrantsayz/vikrantsayz/main/Assets/sasori.gif" width="100%"/>
 </td>
-<td width="75%" valign="middle" align="left">
+<td width="50%" valign="middle" align="left">
 
 ### 👨‍💻 About Me
 
