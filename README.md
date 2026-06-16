@@ -23,7 +23,7 @@
 <td width="50%" align="center" valign="middle">
   <img src="https://raw.githubusercontent.com/vikrantsayz/vikrantsayz/main/Assets/sasori.gif" width="100%"/>
 </td>
-<td width="50%" valign="middle" align="left">
+<td width="75%" valign="middle" align="left">
 
 ### 👨‍💻 About Me
 
@@ -39,7 +39,7 @@ I'm **𝐕ɪᴋʀᴀɴᴛ** from **Uttar Pradesh** 🇮🇳
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%">
 
 <br/>
 
@@ -51,8 +51,8 @@ I'm **𝐕ɪᴋʀᴀɴᴛ** from **Uttar Pradesh** 🇮🇳
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vikrantsayz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&border_radius=12" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantsayz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_radius=12" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vikrantsayz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&border_radius=12" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantsayz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_radius=12" width="45%"/>
 
 <br/><br/>
 
@@ -71,14 +71,6 @@ I'm **𝐕ɪᴋʀᴀɴᴛ** from **Uttar Pradesh** 🇮🇳
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-
-## 〔 🏆 Trophies 〕
-
-<img src="https://github-profile-trophy.vercel.app/?username=vikrantsayz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 
