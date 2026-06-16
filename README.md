@@ -16,17 +16,16 @@
 </div>
 <br/>
 <!-- ═══════════════════ GIF + ABOUT ME ═══════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="120%">
 
 <table border="0" width="100%">
 <tr>
 <td width="50%" align="center" valign="middle">
   <img src="https://raw.githubusercontent.com/vikrantsayz/vikrantsayz/main/Assets/sasori.gif" width="100%"/>
 </td>
-<td width="75%" valign="middle" align="left">
+<td width="50%" valign="middle" align="left">
 
 ### 👨‍💻 About Me
-
 I'm **𝐕ɪᴋʀᴀɴᴛ** from **Uttar Pradesh** 🇮🇳
 - 🔭 I'm a student and a gamer
 - ⚡ Learning **AI, LLMs, Python, JavaScript, Web Dev** etc.
@@ -38,7 +37,6 @@ I'm **𝐕ɪᴋʀᴀɴᴛ** from **Uttar Pradesh** 🇮🇳
 </td>
 </tr>
 </table>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%">
 
 <br/>
