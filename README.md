@@ -1,8 +1,5 @@
 <!-- ═══════════════════ BANNER ═══════════════════ -->
-
-<div align="center">
   <img src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="100%" alt="banner"/>
-</div>
 
 <br/>
 <!-- ═══════════════════ ROLES + BADGES ═══════════════════ -->
@@ -13,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/@vikrant.sayz-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vikrant.sayz)
 [![GitHub](https://img.shields.io/badge/vikrantsayz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikrantsayz)
 [![Profile Views](https://komarev.com/ghpvc/?username=vikrantsayz&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/vikrantsayz)
-</div>
+<div align="center">
 <br/>
 <!-- ═══════════════════ GIF + ABOUT ME ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="120%">
@@ -32,8 +29,8 @@ I'm **𝐕ɪᴋʀᴀɴᴛ** from **Uttar Pradesh** 🇮🇳
 - 🎮 In free time — **Playing Video Games**
 
 <br/>
-📬 Contact
-<a href="mailto:vikrant.sayz@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> vikrant.sayz@gmail.com</a>
+📬 Contact -  
+  <a href="mailto:vikrant.sayz@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </td>
 </tr>
 </table>
