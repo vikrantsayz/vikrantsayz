@@ -38,12 +38,10 @@ I'm **𝐕ɪᴋʀᴀɴᴛ** from **Uttar Pradesh** 🇮🇳
 <br/>
 
 <!-- ═══════════════════ STATS ═══════════════════ -->
-
 <div align="center">
-
-##   📊 GitHub Stats 
-
-<br/>
+  
+##   📊 GitHub Stats
+  <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vikrantsayz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&border_radius=12" width="50%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantsayz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_radius=12" width="45%"/>
