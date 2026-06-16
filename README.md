@@ -21,7 +21,7 @@
 <table border="0" width="100%">
 <tr>
 <td width="50%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/vikrantsayz/vikrantsayz/main/Assets/13_friend_kim_14050325_193233438.mp4" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vikrantsayz/vikrantsayz/main/Assets/sasori.gif" width="100%"/>
 </td>
 <td width="50%" valign="middle" align="left">
 
