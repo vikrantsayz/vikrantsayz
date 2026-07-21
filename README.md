@@ -37,27 +37,6 @@ I'm **𝐕ɪᴋʀᴀɴᴛ** from **Uttar Pradesh** 🇮🇳
 
 <br/>
 
-<!-- ═══════════════════ STATS ═══════════════════ -->
-<div align="center">
-  
-##   📊 GitHub Stats
-  <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=vikrantsayz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&border_radius=12" width="50%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantsayz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_radius=12" width="45%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=vikrantsayz&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=A855F7&ring=22D3EE&fire=F472B6&currStreakLabel=A855F7&border_radius=12" width="70%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantsayz&bg_color=0D1117&color=A855F7&line=22D3EE&point=F472B6&area=true&hide_border=true&border_radius=12" width="100%"/>
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════ TROPHIES ═══════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
